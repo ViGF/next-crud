@@ -1,5 +1,5 @@
 # Next CRUD
-CRUD de usuários com Next e Firestore.
+CRUD de usuários com Next e Firestore. Feito durante o curso de Next.js & React da Cod3r.
 
 ![cover](public/images/home.png)
 
